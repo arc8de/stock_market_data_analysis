@@ -33,7 +33,7 @@ stock-analysis/
 
 ## Setup
 1. Clone the repository
-2. Install requirements: `pip install -r requirements.txt` or install it one by one
+2. Install requirements: `pip install -r requirements.txt` or install it one by one from txt file
 3. Run notebooks in order:
    - 1. Stock Data Cleaning.ipynb (Fetches live data)
    - 2. Exploratory Data Analysis.ipynb
