@@ -34,6 +34,8 @@ This project analyzes historical stock market data to identify trends, correlati
    - 2. Exploratory Data Analysis.ipynb
    - 3. Predictive Modeling.ipynb
 
+**Note:** The files above contain example output for only selected stocks. If users wish, they can update the company name in `2. Exploratory Data Analysis.ipynb` and `3. Predictive Modeling.ipynb` accordingly for other outputs.
+
 ## Changing the Analyzed Stocks
 
 To analyze stock data for different companies:
