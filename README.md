@@ -3,9 +3,9 @@ stock-analysis/
 
 ├── data/
 
-│   ├── stock_data.csv
+│   ├── stock_data.csv (auto-generated)
 
-│   └── sectors_data.csv
+│   └── sectors.csv
 
 ├── notebooks/
 
@@ -20,10 +20,6 @@ stock-analysis/
 │   ├── data_processing.py
 
 │   └── visualization.py
-
-├── reports/
-
-│   └── stock_analysis_report.pdf
 
 ├── requirements.txt
 
