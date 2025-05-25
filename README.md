@@ -6,6 +6,12 @@ This project analyzes historical stock market data to identify trends, correlati
 ## Project Structure
 ```
 📦 
+├─ OUTPUT IMAGES
+│  ├─ 2. AAPL CLOSING PRICE.png
+│  ├─ 2. AAPL price with moving averages.png
+│  ├─ 2. Average Daily Returns by Sector.png
+│  ├─ 2. Stock Correlation matrix.png
+│  └─ 3 .Final AAPL Price Forecast.png
 ├─ README.md
 ├─ notebooks
 │  ├─ 1. Stock Data Cleaning.ipynb
@@ -19,7 +25,6 @@ This project analyzes historical stock market data to identify trends, correlati
    ├─ data_processing.py
    └─ visualization.py
 ```
-
 
 ## Setup
 1. Clone the repository
