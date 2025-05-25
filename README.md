@@ -30,9 +30,9 @@ This project analyzes historical stock market data to identify trends, correlati
 1. Clone the repository
 2. Install requirements: `pip install -r requirements.txt` or install it one by one from txt file
 3. Run notebooks in order:
-   - 1. Stock Data Cleaning.ipynb (Fetches live data)
-   - 2. Exploratory Data Analysis.ipynb
-   - 3. Predictive Modeling.ipynb
+   - 1. 1. Stock Data Cleaning.ipynb (Fetches live data)
+   - 2. 2. Exploratory Data Analysis.ipynb
+   - 3. 3. Predictive Modeling.ipynb
 
 **Note:** The files above contain example output for only selected ticker symbol. If users wish, they can update the ticker symbol in `notebooks/2. Exploratory Data Analysis.ipynb` and `notebooks/3. Predictive Modeling.ipynb` that are present in `notebooks/1. Stock Data Cleaning.ipynb` accordingly for other outputs.
 
