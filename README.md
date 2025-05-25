@@ -4,31 +4,21 @@
 This project analyzes historical stock market data to identify trends, correlations, and predict future prices.
 
 ## Project Structure
-stock-analysis/
-
-├── data/
-
-│   ├── stock_data.csv (auto-generated)
-
-│   └── sectors.csv
-
-├── notebooks/
-
-│   ├── 1. Stock Data Cleaning.ipynb
-
-│   ├── 2. Exploratory Data Analysis.ipynb
-
-│   └── 3. Predictive Modeling.ipynb
-
-├── src/
-
-│   ├── data_processing.py
-
-│   └── visualization.py
-
-├── requirements.txt
-
-└── README.md
+```
+📦 
+├─ README.md
+├─ notebooks
+│  ├─ 1. Stock Data Cleaning.ipynb
+│  ├─ 2. Exploratory Data Analysis.ipynb
+│  ├─ 3. Predictive Modeling.ipynb
+│  └─ data
+│     ├─ sectors.csv
+│     └─ stock_data.csv
+├─ requirements.txt
+└─ src
+   ├─ data_processing.py
+   └─ visualization.py
+```
 
 
 ## Setup
