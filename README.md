@@ -49,9 +49,6 @@ Intended for students, analysts, and hobbyists interested in financial data scie
    ├─ data_processing.py
    └─ visualization.py
 ```
-
----
-
 ## Setup
 
 1. **Clone the repository**
@@ -89,9 +86,7 @@ Intended for students, analysts, and hobbyists interested in financial data scie
    - Go to `File` > `Open Folder...` and select the `stock_market_data_analysis` directory.
    - If prompted, select the Python interpreter from your `venv` virtual environment (use `Ctrl+Shift+P` → "Python: Select Interpreter").
    - You can open and run any Jupyter Notebook (`.ipynb`) files directly within VSCode. Simply click on the notebook file, and use the built-in Jupyter support to execute cells.
-
-   *Alternatively, you may use the integrated terminal and your preferred Python files or scripts in VSCode.*
-
+   
 ---
 
 ## Usage
