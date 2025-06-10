@@ -149,7 +149,7 @@ To analyze stock data for different companies:
 *Moving averages crossover signals on AAPL.*
 
 ![AAPL Price Forecast](https://github.com/user-attachments/assets/011b73f5-c47e-46e0-b76d-066a8b93a7f0)
-*30-day price forecast for AAPL using Prophet.*
+*30-day price forecast for AAPL (Apple) using Prophet.*
 
 ---
 
