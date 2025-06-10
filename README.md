@@ -63,20 +63,34 @@ Intended for students, analysts, and hobbyists interested in financial data scie
 2. **Set up a virtual environment (recommended)**
    ```sh
    python3 -m venv venv
-   source venv/bin/activate     # On Windows: venv\Scripts\activate
    ```
+   - **Activate the virtual environment:**
+     - On **macOS/Linux**:
+       ```sh
+       source venv/bin/activate
+       ```
+     - On **Windows**:
+       ```sh
+       venv\Scripts\activate
+       ```
+   - **In VSCode:**  
+     - Open the project folder in VSCode.
+     - If prompted, select the Python interpreter from your `venv` environment (`Ctrl+Shift+P` → “Python: Select Interpreter”).
+     - VSCode will automatically use your virtual environment for running and debugging Python code.
 
 3. **Install requirements**
    ```sh
    pip install -r requirements.txt
    ```
-   or install the requiremnts onr at a time in your terminal in case of an error.
+   Or install the requirements one at a time in your terminal in case of an error.
 
-4. **Launch Jupyter Notebook**
-   ```sh
-   jupyter notebook
-   ```
-   Or use your preferred IDE.
+4. **Open the project in VSCode**
+   - Open VSCode.
+   - Go to `File` > `Open Folder...` and select the `stock_market_data_analysis` directory.
+   - If prompted, select the Python interpreter from your `venv` virtual environment (use `Ctrl+Shift+P` → "Python: Select Interpreter").
+   - You can open and run any Jupyter Notebook (`.ipynb`) files directly within VSCode. Simply click on the notebook file, and use the built-in Jupyter support to execute cells.
+
+   *Alternatively, you may use the integrated terminal and your preferred Python files or scripts in VSCode.*
 
 ---
 
