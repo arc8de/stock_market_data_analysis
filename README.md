@@ -70,6 +70,7 @@ Intended for students, analysts, and hobbyists interested in financial data scie
    ```sh
    pip install -r requirements.txt
    ```
+   or install the requiremnts onr at a time in your terminal in case of an error.
 
 4. **Launch Jupyter Notebook**
    ```sh
