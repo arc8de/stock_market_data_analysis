@@ -65,12 +65,16 @@ To analyze stock data for different companies:
 - Moving average plots
 - 30-day price forecasts
 
+![AAPL Closing Price](https://github.com/user-attachments/assets/c62516a2-ccfa-4586-a140-dd2ed1b339a1)
+![Average Daily return by Sector](https://github.com/user-attachments/assets/7ae3077f-1558-4237-aae0-54f6f8cc83fb)
+![Stock Correlation matrix](https://github.com/user-attachments/assets/a1d22a9f-4870-4585-9425-02de034015c0)
+![AAPL Price with moving averages](https://github.com/user-attachments/assets/72d5ddb0-dda9-419e-8109-58717f14dbe1)
+![AAPL Price Forecast](https://github.com/user-attachments/assets/c3a23271-c9e5-47cd-87d1-05c7572da065)
 
-![AAPL Closing Price](https://github.com/user-attachments/assets/b43723a7-8550-492f-b262-4c2e5b57db1c)
-![Average Daily return by Sector](https://github.com/user-attachments/assets/5757f72d-8df0-4959-8087-1f5dd13c1d74)
-![Stock Correlation matrix](https://github.com/user-attachments/assets/73997d59-ce85-4a92-8a78-ab41b7df4cd7)
-![AAPL Price with moving averages](https://github.com/user-attachments/assets/0eb55557-2144-464c-a68a-550b24a39d51)
-![AAPL Price Forecast](https://github.com/user-attachments/assets/4488cce5-4a07-40dd-a933-ed5ea510ddda)
+
+
+
+
 
 
 
